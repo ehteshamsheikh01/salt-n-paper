@@ -1,0 +1,130 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: #ffffff;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+/* utility classes */
+
+/* margin classes end */
+
+
+
+.bg-dark{
+background-color: #000000;
+}
+.bg-grey{
+background-color: #0f0f0f;
+}
+
+.center{
+text-align: center;
+}
+.rounded{
+border-radius: 100px;
+justify-content: center;
+background-color:red;
+padding: 10px;
+
+}
+#franchise{
+    border-radius: 100px;
+    justify-content: center;
+    background-color:#000000;
+    padding: 10px;  
+}
+.rounded-sm{
+border-radius: 10px;
+}
+.rounded-md{
+border-radius: 20px;
+}
+.text-dark{
+color: #000000;
+}
+.text-light{
+color: #ffffff;
+}
+.text-grey{
+color: rgba(255, 255, 255, 0.7);
+}
+.transparent{
+    background-color: transparent;
+}
+.font-red{
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+}
+.font-head{
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.font-gray{
+color: gray;
+font-style: initial;
+font-family: monospace;
+font-size: small;
+}
+.font-d-white{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.center{
+    margin: 0 auto;
+}
+.village-franchise{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    flex-wrap: wrap;
+}
+.location-area-image{
+display: flex;
+justify-content: space-evenly;
+justify-content: center;
+margin-left: 60px;
+}
+.l-a-image{
+  margin: 0 auto;
+}
+.l-a-image-food{
+    width: 200px;
+}
+.d-inline{
+    display: inline-flex;
+    display: flex;
+    justify-content: center;
+}
+.font{
+    font-family: 'Times New Roman', Times, serif;
+}
+.i-1{
+    width: 400px;
+}
+.i-p-1{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+justify-content: space-between;
+margin-left: 20px;
+margin-right: 40px;
+margin-bottom: 20px;
+align-items: center;
+}
+.i-2{
+    width: 400px;
+}
+.i-p-2{
+display: flex;
+justify-content: center;
+flex-wrap: wrap;
+justify-content: space-between;
+margin-left: 20px;
+margin-right: 40px;
+margin-top: 40px;
+align-items: center;
+gap: 30px;
+}
+.font-L-white{
+    font-family: 'Times New Roman', Times, serif;
+}
